@@ -1,0 +1,17 @@
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.csproj.AssemblyReference.cache
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.csproj.SuggestedBindingRedirects.cache
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.Form1.resources
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.Form2.resources
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.Properties.Resources.resources
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.csproj.GenerateResource.cache
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.csproj.CoreCompileInputs.cache
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\bin\Debug\Ligformati.exe.config
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\bin\Debug\Ligformati.exe
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\bin\Debug\Ligformati.pdb
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.exe
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.pdb
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Interop.WMPLib.dll
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\obj\Debug\Ligformati.csproj.ResolveComReference.cache
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\bin\Debug\Interop.WMPLib.dll
+C:\Users\YusufSahin\source\repos\Ligformati\Ligformati\bin\Debug\AxInterop.WMPLib.dll
